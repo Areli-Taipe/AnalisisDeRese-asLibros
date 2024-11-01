@@ -1,0 +1,153 @@
+﻿review,sentiment
+"¡Este libro fue increíble! Me encantó",positivo
+"la historia es muy buena",positivo
+"No me gustó este libro en absoluto. Era aburrido",negativo
+"La historia estuvo bien, no la mejor, pero tampoco terrible",neutral
+"¡Este libro fue increíble! Me encantó",positivo
+"¡Qué historia tan fascinante! Lo disfruté mucho",positivo
+"¡Simplemente asombroso! No pude dejar de leerlo",positivo
+"¡Me atrapó desde la primera página! Maravilloso",positivo
+"¡Una lectura espectacular! Totalmente recomendado",positivo
+"¡Impresionante! Cada capítulo fue mejor que el anterior",positivo
+"Me encantó. La trama fue muy emocionante",positivo
+"Qué libro tan maravilloso. Lo leí de un tirón",positivo
+"Increíble. Los personajes son muy bien desarrollado",positivo
+"Este libro es una joya. Lo disfruté enormemente",positivo
+"Me dejó sin palabras. Absolutamente cautivador",positivo
+"Fantástico. La narrativa es envolvente",positivo
+"Un libro excepcional. No podía parar de leer",positivo
+"Increíblemente bueno. Me sorprendió en cada página",positivo
+"Este libro me robó el corazón. Absolutamente encantador",positivo
+"Increíble. Cada capítulo era un regalo",positivo
+"Me encantó. Perfecto para un maratón de lectura",positivo
+"Fantástico. El final me dejó sin aliento",positivo
+"Una lectura inolvidable. Quedé completamente enganchado",positivo
+"Este libro fue una revelación. Muy emocionante",positivo
+"Me encantó la profundidad de los personajes. Fascinante",positivo
+"Qué gran libro. La historia es muy original",positivo
+"Una obra maestra. Simplemente me encantó",positivo
+"Increíblemente bueno. Me sorprendió en cada página",positivo
+"Un libro excepcional. No podía parar de leer",positivo
+"Fantástico. La narrativa es envolvente",positivo
+"Este libro es una joya. Lo disfruté enormemente",positivo
+"¡Este libro me robó el corazón! Absolutamente encantador",positivo
+"¡Qué libro tan hermoso! Realmente lo disfruté",positivo
+"¡Increíble! Cada capítulo era un regalo",positivo
+"¡Me encantó! Perfecto para un maratón de lectura",positivo
+"¡Fantástico! El final me dejó sin aliento",positivo
+"¡Una lectura inolvidable! Quedé completamente enganchado",positivo
+"¡Maravilloso! No puedo recomendarlo lo suficiente",positivo
+"¡Este libro fue una revelación! Muy emocionante",positivo
+"¡Me encantó la profundidad de los personajes! Fascinante",positivo
+"¡Qué gran libro! La historia es muy original.",positivo
+"¡Una obra maestra! Simplemente me encantó",positivo
+"¡Increíblemente bueno! Me sorprendió en cada página",positivo
+"¡Un libro excepcional! No podía parar de leer",positivo
+"¡Fantástico! La narrativa es envolvente",positivo
+"¡Me dejó sin palabras! Absolutamente cautivador",positivo
+"¡Impresionante! Cada capítulo fue mejor que el anterior",positivo
+"¡Me encantó! La trama fue muy emocionante.",positivo
+"¡Una lectura espectacular! Totalmente recomendado",positivo
+"¡Qué historia tan fascinante! Lo disfruté mucho",positivo
+"No me gustó este libro en absoluto. La trama era muy predecible",negativo
+"No disfruté de la novela. Los personajes eran unidimensionales",negativo
+"No me convenció el libro. La escritura era aburrida.",negativo
+"No me atrajo la historia. Carecía de emoción",negativo
+"No me impresionó el libro. No había desarrollo en la trama",negativo
+"No me gustó el final. Fue muy abrupto y sin sentido.",negativo
+"No me fascinó el libro. La narrativa era lenta.",negativo
+"No me agradó el estilo del autor. Era confuso y denso.",negativo
+"No disfruté de los personajes. No me resultaban creíbles",negativo
+"No me pareció interesante la historia. Era repetitiva.",negativo
+"No me gustó el enfoque del libro. Era muy superficial.",negativo
+"No me convenció la prosa. Era demasiado compleja.",negativo
+"No me atrajo el tema. No era relevante para mí.",negativo
+"No disfruté la lectura. Me costó mantener el interés.",negativo
+"No me impresionó la trama. Carecía de giros sorprendentes.",negativo
+"No me gustó la construcción del mundo. Era poco convincente.",negativo
+"No me cautivó el libro. No tenía chispa ni emoción.",negativo
+"No me agradó la evolución de los personajes. Era predecible.",negativo
+"No disfruté de la ambientación. No me transportaba a otro lugar.",negativo
+"No me pareció adecuado el ritmo. Era demasiado lento.",negativo
+"No me gustó la narrativa. Era desordenada y confusa.",negativo
+"No me impresionó el diálogo. Era poco natural.",negativo
+"No me convenció el desarrollo del conflicto. Era flojo.",negativo
+"No me atrajo la perspectiva del autor. Era limitada.",negativo
+"No me convenció el desarrollo de la historia. Era predecible.",negativo
+"Este libro fue una pérdida de tiempo; la trama no atrapó en ningún momento.",negativo
+"La escritura resulta pesada, y los personajes carecen de profundidad",negativo
+"La historia es predecible y no ofrece nada nuevo.",negativo
+"La prosa es tan densa que se hace difícil seguirla.",negativo
+"Los diálogos son artificiales y no conectan con la realidad.",negativo
+"El desarrollo es tan lento que perdí el interés rápidamente.",negativo
+"La trama parece arrastrarse sin un rumbo claro.",negativo
+"Demasiados personajes confusos que no aportan a la historia.",negativo
+"La narrativa se siente repetitiva y carece de emoción.",negativo
+"Faltó tensión y la resolución fue decepcionante.",negativo
+"La historia es tan aburrida que me costó terminarla.",negativo
+"El argumento no tiene sentido y se siente forzado.",negativo
+"La prosa es tan plana que no logra captar la atención.",negativo
+"Los personajes son estereotipos y carecen de desarrollo.",negativo
+"El final fue insatisfactorio y dejó muchas preguntas sin respuesta.",negativo
+"El ritmo es tan lento que la lectura se vuelve tediosa.",negativo
+"No hubo giros inesperados; todo fue predecible desde el principio.",negativo
+"La ambientación es poco convincente y no ayuda a la trama.",negativo
+"Me resultó difícil conectar con la historia o los personajes.",negativo
+"El estilo narrativo es confuso y me perdí en la trama.",negativo
+"El libro es interesante, aunque a veces se siente un poco lento.",neutral
+"La trama tiene sus momentos, pero no me atrapó por completo.",neutral
+"Los personajes son agradables, pero podrían haber sido más profundos.",neutral
+"La escritura es clara, aunque a veces se vuelve predecible.",neutral
+"El final fue satisfactorio, pero no me sorprendió.",neutral
+"Hay algunas partes emocionantes, pero también muchas que se sienten repetitivas.",neutral
+"El ambiente del libro es atractivo, pero no logra mantener mi atención todo el tiempo.",neutral
+"El desarrollo de la historia es correcto, aunque le falta chispa.",neutral
+"Es un libro entretenido, pero no lo volvería a leer.",neutral
+"La idea central es buena, aunque no se explora a fondo.",neutral
+"El ritmo es desigual, con altibajos en la narrativa.",neutral
+"El autor tiene un estilo interesante, pero a veces se pierde en los detalles.",neutral
+"El libro se lee rápido, pero no deja una impresión duradera.",neutral
+"Hay momentos de gran tensión, pero también momentos de aburrimiento.",neutral
+"La historia es agradable, pero carece de originalidad.",neutral
+"Los giros de la trama son intrigantes, aunque algunos son previsibles.",neutral
+"Me gustó la ambientación, pero los personajes son algo planos.",neutral
+"La lectura es ligera y fácil, aunque carece de profundidad.",neutral
+"El libro es correcto, pero no destaca entre otros del mismo género.",neutral
+"El concepto es interesante, aunque su ejecución no me convenció del todo.",neutral
+"Hay algunos diálogos brillantes, pero también otros que no aportan mucho.",neutral
+"La narración es fluida, pero hay momentos que se sienten forzados.",neutral
+"La historia tiene potencial, pero no lo aprovecha del todo.",neutral
+"Me gustó el enfoque, aunque la trama es algo predecible.",neutral
+"Los temas tratados son relevantes, pero podrían haber sido más profundos.",neutral
+"Es un libro que se deja leer, aunque no me dejó reflexionando.",neutral
+"El desarrollo de los personajes es básico, pero aceptable.",neutral
+"Las descripciones son detalladas, pero a veces excesivas.",neutral
+"La historia me mantuvo interesado, aunque no entusiasmado.",neutral
+"El libro tiene momentos brillantes, pero también algunos que sobran.",neutral
+"El autor tiene buenas ideas, pero la ejecución no siempre es efectiva",neutral
+"Es una lectura amena, aunque no ofrece muchas sorpresas.",neutral
+"La relación entre los personajes es interesante, pero podría haber sido más compleja",neutral
+"Hay un par de giros que me sorprendieron, pero la mayoría son predecibles",neutral
+"La narrativa es directa, pero a veces falta de emoción.",neutral
+"El libro cumple con su propósito, aunque no va más allá",neutral
+"Me gustó el inicio, pero el desarrollo se siente algo flojo",neutral
+"El final es satisfactorio, aunque no dejó una huella fuerte",neutral
+"La trama es sencilla, pero a veces eso puede ser refrescante.",neutral
+"Es un libro correcto, aunque no lo recomendaría de manera entusiasta.",neutral
+"La historia tiene su encanto, aunque no me mantuvo enganchado todo el tiempo",neutral
+"Los personajes son simpáticos, pero algunos se sienten un poco estereotipados",neutral
+"La prosa es accesible, aunque no es particularmente poética.",neutral
+"Hay algunas ideas interesantes, pero no todas están bien desarrolladas",neutral
+"El libro se lee rápido, pero no tiene un gran impacto emocional.",neutral
+"La trama es entretenida, aunque a veces carece de coherencia",neutral
+"Los temas son relevantes, pero no se exploran con profundidad.",neutral
+"Es un libro que cumple su función de entretenimiento, aunque no mucho más",neutral
+"El autor tiene buen ritmo, pero algunos pasajes son un poco largos",neutral
+"La historia tiene un buen inicio, pero se pierde un poco en el medio.",neutral
+"La lectura es amena, aunque el desenlace no fue lo que esperaba.",neutral
+"La narrativa es sencilla y clara, pero carece de profundidad emocional.",neutral
+"Los giros son interesantes, aunque algunos resultan predecibles.",neutral
+"La ambientación es agradable, pero los personajes podrían haber sido más memorables.",neutral
+"El libro tiene momentos divertidos, pero también hay partes que se sienten estancadas",neutral
+"la historia es muy buena",positivo
+"la historia es muy mala",negativo

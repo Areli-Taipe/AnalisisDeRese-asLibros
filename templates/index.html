@@ -1,0 +1,50 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Sentimientos</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <video id="video-bg" autoplay loop muted>  
+        <source src="/static/videos/fondo.mp4" type="video/mp4">  
+        Tu navegador no soporta el video.  
+    </video>  
+    <div class="container">
+        <h1>Análisis de Sentimientos de Reseñas de Libros</h1>
+        <form id="review-form">
+            <textarea name="review" id="review" rows="4" placeholder="Escribe tu reseña aquí..."></textarea>
+        
+            <div>
+                <button class="btn" type="submit"><i class="animation"></i>Predecir Sentimiento<i class="animation"></i>
+                </button>
+            </div>
+        </form>
+        <div id="result"></div>
+    </div>
+    <footer>  
+        <p>&copy; 2024 Areli Taipe Tolentino. Todos los derechos reservados.</p>  
+    </footer> 
+    <script>
+        document.getElementById('review-form').onsubmit = function(event) {
+            event.preventDefault();
+            const review = document.getElementById('review').value;
+
+            fetch('/predict', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/x-www-form-urlencoded',
+                },
+                body: new URLSearchParams({ review })
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').innerText = 'Predicción: ' + data.prediction;
+            });
+        };
+    </script>
+</body>
+</html>
